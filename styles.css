@@ -1,1 +1,18 @@
 /*  your css code here. If applicable */
+#yellow{
+	background-color:yellow;
+	border:1px solid green;
+	text-align:center;
+}
+
+#red{
+	background-color:red;
+	border:1px solid black;
+	text-align:center;	
+}
+
+#green{
+	background-color:green;
+	border:1px solid yellow;
+	text-align:center;
+}
